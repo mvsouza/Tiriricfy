@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Tirirication",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Troca todas as imagens de paginas acessadas por  fotos do tiririca.",
+    "description": "The description of the application"
+  }
+}
