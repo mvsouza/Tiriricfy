@@ -10,7 +10,17 @@
 		'http://f.i.uol.com.br/fotografia/2014/08/21/430153-970x600-1.jpeg',
 		'http://economia.estadao.com.br/blogs/radar-da-propaganda/wp-content/uploads/sites/67/2014/07/tiririca1.jpg',
 		'http://1.bp.blogspot.com/_BSCeP9r5uD8/TJnyNrfnA6I/AAAAAAAABms/Xu5eK6ERpFU/s400/tiririca.jpg',
-		'http://veja.abril.com.br/blog/politica/files/2013/02/Tiririca-loiro1.jpg'
+		'http://veja.abril.com.br/blog/politica/files/2013/02/Tiririca-loiro1.jpg',
+    'http://www.revistabrasileiros.com.br/wp-content/uploads/2014/07/6y45y35y3.jpg',
+    'http://www.diarioonline.com.br/app/painel/modulo-noticia/img/imagensdb/original/destaque-246899-tiririca.jpg',
+    'http://static.eleicoes2014.com.br/upload/images/ti/ri/tiririca_fbs.jpg',
+    'http://content-portal.istoe.com.br/istoeimagens/imagens/mi_1835918634059959.jpg',
+    'http://www.primeirahora.com.br/fotos-noticias/tiririca-novo-estilo.jpg',
+    'http://3.bp.blogspot.com/-6sv2SIjXN3E/TdRZMjEWI8I/AAAAAAAAAMc/B2yZwbUJK9g/s400/QUINHO%2B-%2BTIRIRICA%2BDEPUTADO%2BPALHACO%2BCONGRESSO.jpg',
+    'https://lh4.googleusercontent.com/-I7q27XPLE3U/TYF5zDmCYzI/AAAAAAAAANw/IDNHPdgfXmw/s320/tiririca+20+reais.jpg',
+    'http://img.r7.com/images/2013/02/18/13_02_57_68_file?dimensions=780x340',
+    'http://1.bp.blogspot.com/-YUhF6c2FOiI/Tbb3nIl1aQI/AAAAAAAACuU/iWVGufHeh1M/s1600/Tiririca.jpg',
+    'http://www.estadao.com.br/fotos/tiririca_dida_sampaio_ae_19022012.jpg'
         ],
         handleImages: function (lstImgs, time) {
             $.each($('img'), function (i, item) {

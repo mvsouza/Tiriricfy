@@ -1,20 +1,13 @@
 {
-    "name": "Titirication",
-    "version": "0.0.6",
+    "name": "Titiricfy",
+    "version": "0.0.9",
     "manifest_version": 2,
-    "description": "",
+    "description": "Replace all pictures of all pages for photo from Tiririca.",
     "icons": {
-        "16": "images/icon-16.png",
-        "128": "images/icon-128.png"
+        "16": "images/Tiririca16.png",
+        "128": "images/Tiririca128.png"
     },
     "default_locale": "en",
-    "background": {
-        "scripts": [
-            "scripts/jquery-1.8.2.min.js",
-            "scripts/chromereload.js",
-            "scripts/background.js"
-        ]
-    },
     "content_scripts": [
         {
             "matches": [
@@ -24,9 +17,7 @@
             "js": [
                 "scripts/jquery-1.8.2.min.js",
                 "scripts/contentscript.js"
-            ],
-            "run_at": "document_end",
-            "all_frames": false
+            ]
         }
     ],
     "permissions": [
